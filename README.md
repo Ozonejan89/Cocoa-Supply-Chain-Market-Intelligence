@@ -9,6 +9,11 @@ This project shows how I collected, cleaned, and visualized cocoa market data fo
 - Adds regional production data for West African cocoa producers
 - Visualizes everything in a Streamlit dashboard
 
+## Dashboard preview
+![Cocoa dashboard screenshot](screenshots/image.png)
+
+This screenshot is part of the project presentation, and the actual extraction and dashboard code is included in the repository files listed below.
+
 ## Key files
 - extract_data.py — downloads raw cocoa market data
 - merge_weather_prices.py — merges cocoa prices with rainfall data
