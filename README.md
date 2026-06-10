@@ -15,6 +15,7 @@ This project shows how I collected, cleaned, and visualized cocoa market data fo
 - update_regional_production.py — adds regional production data
 - prepare_dashboard_data.py — prepares all dashboard input files
 - app.py — Streamlit dashboard interface
+- screenshots/ — folder for the Power BI dashboard screenshot used in this project
 
 ## How to reproduce the data extraction
 1. Install dependencies:
