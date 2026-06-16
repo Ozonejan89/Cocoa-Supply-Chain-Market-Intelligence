@@ -3,11 +3,11 @@
 This project shows how I collected, cleaned, and visualized cocoa market data for a supply-chain dashboard.
 
 ## What this project does
-- Extracts live cocoa futures prices from Yahoo Finance
-- Fetches rainfall data for Côte d’Ivoire using the Open-Meteo archive API
-- Merges the market and weather data into a clean dataset for analysis
-- Adds regional production data for West African cocoa producers
-- Visualizes everything in a Streamlit dashboard
+* **Extracts live cocoa futures prices** from Yahoo Finance using Python.
+* **Fetches historical rainfall data** for Côte d'Ivoire using the Open-Meteo archive API.
+* **Merges market and weather data** into a clean database structure (`clean_cocoa_weather_data.csv`).
+* **Integrates regional production volumes** for primary West African producers (`regional_production.csv`).
+* **Visualizes interactive insights** using an advanced, enterprise-grade **Power BI dashboard** (`coccoa.pbix`).
 
 ## Dashboard preview
 ![Dashboard Preview](Cocoa_Screenshot.png)
