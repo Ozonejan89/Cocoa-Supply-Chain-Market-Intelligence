@@ -10,7 +10,7 @@ This project shows how I collected, cleaned, and visualized cocoa market data fo
 - Visualizes everything in a Streamlit dashboard
 
 ## Dashboard preview
-![Cocoa dashboard screenshot](screenshots/image.png)
+![Dashboard Preview](Cocoa_Screenshot.png)
 
 This screenshot is part of the project presentation, and the actual extraction and dashboard code is included in the repository files listed below.
 
